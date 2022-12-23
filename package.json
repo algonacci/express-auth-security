@@ -1,0 +1,26 @@
+{
+  "name": "express-auth-security",
+  "version": "1.0.0",
+  "description": "The personal documentation while learning security and authentication in Express on top of Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algonacci/express-auth-security.git"
+  },
+  "keywords": [
+    "Auth",
+    "Security"
+  ],
+  "author": "Eric Julianto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algonacci/express-auth-security/issues"
+  },
+  "homepage": "https://github.com/algonacci/express-auth-security#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
